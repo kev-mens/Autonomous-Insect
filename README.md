@@ -1,7 +1,7 @@
 # Self-Driving-Simulation
 Navigation through an environment, guided by a learning artificial neural network
 
-TRY FOR YOURSELF
+HOW TO USE
 - Run modified_map.py
 - Click and drag to design your own map, save it if you want using the save map button
                        OR
